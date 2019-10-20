@@ -1,0 +1,72 @@
+
+    body{
+    background-color: #e2e2e2;
+    }
+    
+    .myPhoto{
+    	position: relative;
+    	height: 300px;
+    	float: left;
+    	margin: 0 10px;
+    	border: 2px solid soft-blue;
+    	border-radius: 30px;
+    }
+    
+    h1{
+    color: #555555;
+    }
+    
+    cite{
+    	font-size: 12px;
+    	margin-left: 10px;
+    }
+    
+    table{
+    	border: 2px solid gray;
+    	margin: 5px 0 5px 10px;
+    	border-collapse: collapse;
+    	text-decoration: normal;
+    }
+    
+    tr{
+    	padding: 10px 15px;
+    }
+    
+    th{
+    	border: 1px solid gray;
+    	padding: 3px 5px;
+    }
+    
+    .decor {
+    	position: relative;
+    	max-width: 220px;
+    	margin: 50px auto 0;
+    	padding: 10px 60px;
+    	background: white;
+    	border-radius: 30px;
+    }
+    
+    label{
+    	font-size: 22px;
+    }
+    
+    input{
+    	display: block;
+    	padding: 0 20px;
+    	margin-bottom: 10px;
+    	background: #E9EFF6;
+    	line-height: 40px;
+    	border-width: 0;
+    	border-radius: 20px;
+    }
+    
+    .dropstyle{
+    	display: block;
+    	margin: 50px auto 0;
+    	width: 400px;
+    	background-color: #E9EFF5;
+    	border-radius: 25px;
+    	padding: 10px;
+    	color: #777777;
+    }
+   
